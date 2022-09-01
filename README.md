@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BerkTekel
-- 👀 I'm interested in C, C++.
+- 👀 I'm interested in C# & unity.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 berk.tekeel@gmail.com
